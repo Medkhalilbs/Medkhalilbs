@@ -131,11 +131,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Medkhalilbs/Medkhalilbs/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <p align="center">
   <i>“Clean code, clear mind, continuous improvement.”</i> ✨
 </p>

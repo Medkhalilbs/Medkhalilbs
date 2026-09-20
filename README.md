@@ -11,6 +11,11 @@
   </a>
 
   <p align="center">
+    <strong>Software Engineer &nbsp;|&nbsp; Solution Architect &nbsp;|&nbsp; IT Consultant &nbsp;|&nbsp; Full Stack Developer</strong><br />
+    <em>Enterprise System Integration • Clean Architecture • Cloud &amp; AI-Augmented Engineering</em>
+  </p>
+
+  <p align="center">
     <a href="https://www.linkedin.com/in/mk-bs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2979FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
     <a href="mailto:medkhalilbs@gmail.com"><img src="https://img.shields.io/badge/Email-medkhalilbs%40gmail.com-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -36,32 +41,35 @@
 <div align="center">
 
   <p>
-    <img src="https://img.shields.io/badge/Claude_Code-CLI_%26_Agents-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
     &nbsp;
+    <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Systems-7C4DFF?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Prompt_Engineering-Context_%26_Schemas-00F0FF?style=for-the-badge&logo=sparkles&logoColor=black" alt="Prompt Engineering" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Claude_Code-Terminal_CLI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  </p>
+  <p>
     <img src="https://img.shields.io/badge/Anthropic-Claude_3.5_Sonnet-7C4DFF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
     &nbsp;
     <img src="https://img.shields.io/badge/OpenAI-GPT_Models-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/LangChain-Orchestration-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Python-Agentic_Core-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </p>
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h4>🧠 AI Agent Creation</h4>
       <p>Architecting autonomous agents and structured multi-agent systems designed to execute complex, multi-step deterministic workflows, tool calling, and structured data extraction.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>⚡ Claude Code &amp; CLI Tooling</h4>
-      <p>Mastering cutting-edge AI engineering tooling, including <strong>Claude Code</strong>, programmatic context management, prompt engineering, system prompt design, and iterative terminal development.</p>
+      <h4>⚡ n8n Workflow Automation</h4>
+      <p>Designing intelligent end-to-end automated pipelines, complex webhook listeners, custom API integrations, and orchestrating LLM chains with enterprise services.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🚀 AI-Augmented Engineering</h4>
-      <p>Leveraging state-of-the-art LLMs for rapid architectural prototyping, high-velocity refactoring, comprehensive test suite generation, and intelligent automation pipelines.</p>
+      <h4>🎯 Prompt Engineering &amp; Claude Code</h4>
+      <p>Mastering structured schemas (JSON Mode), chain-of-thought prompt design, dynamic context management, and accelerated CLI terminal development using <strong>Claude Code</strong>.</p>
     </td>
   </tr>
 </table>

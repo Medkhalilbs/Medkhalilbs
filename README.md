@@ -133,18 +133,6 @@ AWS Cloud • Docker Containers • Jenkins CI/CD • SonarQube Static Analysis 
     </a>
   </p>
 
-  <!-- Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Medkhalilbs&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
-  <br /><br />
-
-  <!-- Side-by-Side Stats Cards -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Medkhalilbs&show_icons=true&hide_border=false&bg_color=080C1E&title_color=00F0FF&icon_color=7C4DFF&text_color=94A3B8&border_color=1F2E5C&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medkhalilbs&layout=compact&langs_count=8&hide_border=false&bg_color=080C1E&title_color=00F0FF&text_color=94A3B8&border_color=1F2E5C" height="195" alt="Top Languages" />
-  </p>
-
   <br />
 
   <!-- Streak Stats Card -->
@@ -174,10 +162,4 @@ AWS Cloud • Docker Containers • Jenkins CI/CD • SonarQube Static Analysis 
     </a>
   </p>
 
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with precision &amp; engineered with care • © Mohamed Khalil BEN SEDRINE</sub>
 </div>

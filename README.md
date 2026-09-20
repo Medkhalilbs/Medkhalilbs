@@ -123,64 +123,32 @@ AWS Cloud • Docker Containers • Jenkins CI/CD • SonarQube Static Analysis 
 
 ---
 
-### 🏛️ Engineering & Architecture Matrix
-
-<div align="center">
-
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <h4>🔒 Security &amp; Auth</h4>
-        <p>
-          <img src="https://img.shields.io/badge/JWT-Auth_Flows-00F0FF?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /><br />
-          <img src="https://img.shields.io/badge/Helmet-Header_Security-7C4DFF?style=flat-square" alt="Helmet" /><br />
-          <img src="https://img.shields.io/badge/Rate_Limiting-DDOS_Defense-2979FF?style=flat-square" alt="Rate Limiting" /><br />
-          <img src="https://img.shields.io/badge/RBAC-Access_Control-00C853?style=flat-square" alt="RBAC" />
-        </p>
-        <sub>Stateless tokens, token rotation, defense-in-depth, and rigorous OWASP practices.</sub>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <h4>⚡ Systems &amp; APIs</h4>
-        <p>
-          <img src="https://img.shields.io/badge/REST_APIs-High_Throughput-00F0FF?style=flat-square" alt="REST APIs" /><br />
-          <img src="https://img.shields.io/badge/Microservices-Modular_Design-7C4DFF?style=flat-square" alt="Microservices" /><br />
-          <img src="https://img.shields.io/badge/System_Integration-Enterprise_Grade-2979FF?style=flat-square" alt="System Integration" /><br />
-          <img src="https://img.shields.io/badge/Clean_Architecture-Domain_Driven-00C853?style=flat-square" alt="Clean Architecture" />
-        </p>
-        <sub>Decoupled architectures, responsive event loops, and optimized data schemas.</sub>
-      </td>
-      <td width="33%" align="center" valign="top">
-        <h4>🚀 DevOps &amp; Quality</h4>
-        <p>
-          <img src="https://img.shields.io/badge/CI%2FCD-Automated_Pipelines-00F0FF?style=flat-square&logo=jenkins&logoColor=white" alt="CI/CD" /><br />
-          <img src="https://img.shields.io/badge/Containers-Docker_Orchestration-7C4DFF?style=flat-square&logo=docker&logoColor=white" alt="Containers" /><br />
-          <img src="https://img.shields.io/badge/Code_Quality-SonarQube_Gates-2979FF?style=flat-square&logo=sonarqube&logoColor=white" alt="Code Quality" /><br />
-          <img src="https://img.shields.io/badge/Cloud-AWS_Ecosystem-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Cloud" />
-        </p>
-        <sub>Reproducible environments, zero-downtime rollouts, and continuous static analysis.</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
----
-
-### 📊 GitHub Overview & Status
+### 📊 GitHub Overview & Stats
 
 <div align="center">
 
   <p>
     <a href="https://github.com/Medkhalilbs">
-      <img src="https://img.shields.io/badge/GitHub-Medkhalilbs-080C1E?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub Profile" />
+      <img src="https://komarev.com/ghpvc/?username=Medkhalilbs&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Engineering-Full--Stack_Systems-00F0FF?style=for-the-badge&logo=visualstudiocode&logoColor=080C1E" alt="Engineering" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Focus-System_Integration_%26_AI-7C4DFF?style=for-the-badge" alt="Focus" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2979FF?style=for-the-badge" alt="Status" />
   </p>
+
+  <!-- Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Medkhalilbs&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+  <br /><br />
+
+  <!-- Side-by-Side Stats Cards -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Medkhalilbs&show_icons=true&hide_border=false&bg_color=080C1E&title_color=00F0FF&icon_color=7C4DFF&text_color=94A3B8&border_color=1F2E5C&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medkhalilbs&layout=compact&langs_count=8&hide_border=false&bg_color=080C1E&title_color=00F0FF&text_color=94A3B8&border_color=1F2E5C" height="195" alt="Top Languages" />
+  </p>
+
+  <br />
+
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=Medkhalilbs&theme=transparent&hide_border=false&background=080C1E&stroke=1F2E5C&ring=00F0FF&fire=7C4DFF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 

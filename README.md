@@ -11,11 +11,6 @@
   </a>
 
   <p align="center">
-    <strong>Software Engineer &nbsp;|&nbsp; Solution Architect &nbsp;|&nbsp; IT Consultant &nbsp;|&nbsp; Full Stack Developer</strong><br />
-    <em>Enterprise System Integration • Clean Architecture • Cloud &amp; AI-Augmented Engineering</em>
-  </p>
-
-  <p align="center">
     <a href="https://www.linkedin.com/in/mk-bs/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2979FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
     <a href="mailto:medkhalilbs@gmail.com"><img src="https://img.shields.io/badge/Email-medkhalilbs%40gmail.com-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -48,11 +43,6 @@
     <img src="https://img.shields.io/badge/Prompt_Engineering-Context_%26_Schemas-00F0FF?style=for-the-badge&logo=sparkles&logoColor=black" alt="Prompt Engineering" />
     &nbsp;
     <img src="https://img.shields.io/badge/Claude_Code-Terminal_CLI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Anthropic-Claude_3.5_Sonnet-7C4DFF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/OpenAI-GPT_Models-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   </p>
 
 </div>
